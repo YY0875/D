@@ -11,7 +11,7 @@
 {"key": "鑫鑫","name": "✨鑫鑫┃直连","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yingszj.xn--654a.cc/api.php/app/"},         
 {"key": "快看","name": "💢快看┃直连","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "天天","name": "📅天天┃影视","type": 3,"api": "csp_TTian","ext": "http://op.ysdqjs.cn"},
-{"key": "达人","name": "🧸达人┃直连","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"ext": "http://4k.953365.cn:8090/xgapp.php/v2/"}， 
+{"key": "达人","name": "🧸达人┃直连","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"ext": "http://4k.953365.cn:8090/xgapp.php/v2/"},
 
 {"key": "时光影视","name": "💖时光┃影视","type": 3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"ext": {"分类url":"https://www.shigys.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$20","线路数组":"data-dropdown-value&&/span>","播放数组":"panel1&&</div>"}},
 {"key": "策驰影视","name": "💖策驰┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"ext": {"分类url": "https://www.cecidy.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;ak","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},	
