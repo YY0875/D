@@ -11,6 +11,17 @@
          "filterable":1,
          "ext":"7lj763gg0939791h1l3888jig44gi291li"
       },
+    {
+      "key": "星芽短剧",
+      "name": "星芽｜短剧",
+      "type": 3,
+      "api": "https://gitee.com/fuleishu/fulei/raw/master/json/星芽短剧.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "genre": "shortdrama"
+    },
       {
          "name":"🍉瓜子",
          "key":"Guazi",
