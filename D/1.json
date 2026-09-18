@@ -1,16 +1,6 @@
 {"spider":"./lib/yang.jar",
 "sites": [
 {"key": "热播","name": "🔥热播┃影视","type": 3,"api": "csp_AppRJ","ext":{"url": "http://v.rbotv.cn"}},
-      {
-         "key":"天天",
-         "name":"⛅天天┃影视",
-         "type":3,
-         "api":"csp_TTian",
-         "searchable":1,
-         "quickSearch":1,
-         "filterable":1,
-         "ext":"7lj763gg0939791h1l3888jig44gi291li"
-      },
     {"key": "星芽短剧","name": "🦍星芽┃短剧","type": 3,"api": "csp_DJXY","genre": "shortdrama"},
     {"key": "河马短剧","name": "🦛河马┃短剧","type": 3,"api": "csp_DJHM","genre": "shortdrama"},
     {"key": "七猫短剧","name": "🐱七猫┃短剧","type": 3,"api": "csp_DJQM","genre": "shortdrama"}, 
