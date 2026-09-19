@@ -174,21 +174,21 @@
          "filterable": 1
       },
       {
-         "key":"csp_PianKu8",
-         "name":"🍒山楂1┃影视",
-         "type":3,
-         "api":"csp_PianKu8",
-         "searchable":1,
-         "quickSearch":1,
-         "filterable":0
-      },
-      {
          "key":"csp_APPTe",
          "name":"🦢天鹅┃影视",
          "type":3,
          "api":"csp_AppTe",
          "searchable":1,
          "quickSearch":0,
+         "filterable":0
+      },
+      {
+         "key":"csp_PianKu8",
+         "name":"🍒山楂┃影视",
+         "type":3,
+         "api":"csp_PianKu8",
+         "searchable":1,
+         "quickSearch":1,
          "filterable":0
       },
       {
